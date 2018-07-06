@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="launch">Launch</string>
+    <string name="submit">submit</string>
+</resources>
